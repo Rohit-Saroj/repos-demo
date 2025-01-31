@@ -1,4 +1,4 @@
 # repos-demo
 This is my first Git Repository.
 <br>
-Author - Rohit Saroj
+Author - Rohit Saroj (kiran Academy)
