@@ -1,2 +1,4 @@
 # repos-demo
-This is my first Git Repository. Author - Rohit Saroj
+This is my first Git Repository.
+<br>
+Author - Rohit Saroj
